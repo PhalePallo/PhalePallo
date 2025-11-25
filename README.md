@@ -1,4 +1,11 @@
 ## Hi there 👋
+“Hi, I'm Pallo 👋”
+
+👉 What you do
+“I’m a Full-Stack Developer passionate about building dynamic and user-centered web applications.”
+
+👉 What you’re learning
+“Currently exploring Azure Functions, C#, and advanced JavaScript.”
 
 <!--
 **PhalePallo/PhalePallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
