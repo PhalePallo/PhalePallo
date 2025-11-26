@@ -103,8 +103,7 @@ Python-based ETL + SQL pipeline project
 
 # 🌐 **CONNECT WITH ME**
 
-- 💼 LinkedIn: (https://linkedin.com/in/pallo-phale  
-- 💼 LinkedIn: linkedin.com/in/pallo-phale  
+- 💼 LinkedIn: https://linkedin.com/in/pallo-phale  
 - 🖥️ GitHub: https://github.com/PhalePallo  
 - ✉️ Email: **phalepallo@gmail.com**  
 
