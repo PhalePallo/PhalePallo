@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;JavaScript+%7C+TypeScript+%7C+Python+%7C+C%23+%7C+Java;AWS+%7C+Azure+%7C+Terraform+%7C+Docker+%7C+Kubernetes;Lambda+%7C+API+Gateway+%7C+DynamoDB+%7C+CloudFront;React+%7C+Vite+%7C+CI%2FCD+%7C+GitHub+Actions;Building+Scalable+Cloud-Native+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;JavaScript+%7C+TypeScript+%7C+Python+%7C+C%23;AWS+%7C+Azure+%7C+Terraform+%7C+Docker+%7C+Kubernetes;Lambda+%7C+API+Gateway+%7C+DynamoDB+%7C+CloudFront;React+%7C+Vite+%7C+CI%2FCD+%7C+GitHub+Actions;Building+Scalable+Cloud-Native+Apps" />
 
 </p>
 
