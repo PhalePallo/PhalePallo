@@ -12,12 +12,12 @@
 
 # 👋 **Hi, I'm Pallo**
 
-💡 Full-Stack Developer passionate about building scalable, user-focused web applications  
-🌩️ Experience deploying applications using Azure and GitHub Actions  
-🛒 Shopify store management & UX optimisation background  
-🧪 Strong understanding of APIs, data handling, and automation workflows  
-📚 *Currently learning:* **Azure Functions**, **C#**, **TypeScript**, **Docker & Minikube**  
-🤝 Open to **collaborations**, **AI tools**, **full-stack applications**, and **cloud-based engineering projects**
+💡 **Cloud Solutions Architect** with strong full-stack foundations, focused on designing **scalable, secure, cloud-native systems**  
+🌩️ Hands-on experience deploying and automating workloads across **Azure and AWS**, using **CI/CD pipelines (GitHub Actions)**  
+🏗️ Proven experience with **serverless architectures**, API-driven systems, and **infrastructure-as-code** workflows  
+🧪 Strong understanding of **APIs, data flows, observability, and automation** in distributed cloud environments  
+📚 Continuously expanding expertise in **Azure Functions**, **C#**, **TypeScript**, **Docker**, **Kubernetes (Minikube)**, and **Terraform**  
+🤝 Open to **cloud architecture initiatives**, **DevOps collaboration**, **AI-enabled platforms**, and **large-scale system design projects**
 
 ---
 
@@ -46,9 +46,16 @@
 
 ## ☁️ Cloud & DevOps
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0063B1?logo=azurefunctions&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?logo=amazonapigateway&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-A020F0?logo=githubactions&logoColor=white)
+
 
 ---
 
