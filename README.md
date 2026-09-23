@@ -56,6 +56,9 @@ I'm an **AI Automation Engineer & Full-Stack Developer** who builds AI-powered a
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20Athena-232F3E?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
@@ -72,6 +75,7 @@ I'm an **AI Automation Engineer & Full-Stack Developer** who builds AI-powered a
 | 📈 **[VibeCraft](https://github.com/PhalePallo/VibeCraft)** | AI content engine turning GitHub activity & brand context into ready-to-publish content across 11 templates, via multi-model LLM orchestration | `TypeScript` `React` `OpenRouter` `Gemini` |
 | 🏫 **[Admin Internal Dashboard](https://github.com/PhalePallo/Admin_Internal_Dashboard)** | Enterprise dashboard for school operations & payments with Gemini-powered decision support, deployed on Cloud Run | `React 19` `Node.js` `Gemini API` |
 | ☁️ **[AWS Cloud Governance Dashboard](https://github.com/PhalePallo/aws-cloud-governance-dashboard)** | Serverless audit dashboard — CloudFront + private S3 (OAC), API Gateway → Lambda → DynamoDB, provisioned with Terraform | `Lambda` `DynamoDB` `Terraform` |
+| 🗄️ **[NVDA Serverless Data Lake](https://github.com/PhalePallo/nvda-serverless-data-lake)** | Serverless AWS data lake for NVIDIA stock analysis — S3 + Glue + Athena, with a static analytics dashboard | `AWS S3` `Glue` `Athena` |
 | 💳 **[Payment System](https://github.com/PhalePallo/payment-system)** | React + Flask payment platform for schools and students | `React` `Flask` `TypeScript` |
 
 <p align="center"><i>📌 Pinned repos on my profile mirror this table — see them above for direct access.</i></p>
@@ -86,8 +90,23 @@ I'm an **AI Automation Engineer & Full-Stack Developer** who builds AI-powered a
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhalePallo/PhalePallo/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PhalePallo/PhalePallo/output/github-contribution-grid-snake.svg" />
+    <img alt="a snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/PhalePallo/PhalePallo/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center"><i>Auto-generated every 12 hours by a GitHub Actions workflow — my contribution graph, animated. Built, not borrowed.</i></p>
+
+---
+
 ### 🌐 Connect
 
 📫 **Email:** phalepallo@gmail.com &nbsp;|&nbsp; 💼 **LinkedIn:** [pallo-phale](https://linkedin.com/in/pallo-phale) &nbsp;|&nbsp; 🌍 **Portfolio:** [view site](https://portfolio-pi-two-si6ahp81x4.vercel.app/)
 
 <p align="center"><i>Open to Junior AI Engineer, AI Automation, and Full-Stack AI Developer roles — let's talk.</i></p>
+
