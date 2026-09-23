@@ -89,13 +89,6 @@ I'm an **AI Automation Engineer & Full-Stack Developer** who builds AI-powered a
   <img src="https://streak-stats.demolab.com/?user=PhalePallo&theme=tokyonight&hide_border=true" />
 </p>
 
-<details>
-<summary>📅 Contribution Activity</summary>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhalePallo&theme=tokyo-night&hide_border=true" />
-</p>
-</details>
-
 ---
 
 ### 🌐 Connect
